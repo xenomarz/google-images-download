@@ -27,3 +27,13 @@ You may not reproduce copyright images without their owner's permission,
 except in "fair use" cases,
 or you could risk running into lawyer's warnings, cease-and-desist letters, and copyright suits.
 Please be very careful before its usage! Use this script/code only for educational purposes.
+
+Additional Instructions (Roy Velich)
+====================================
+
+* Download [chrome dirver](https://chromedriver.chromium.org/downloads)
+* Example command line queries:
+  * `googleimagesdownload --keywords "silhouettes" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "shape silhouette" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "country silhouettes high resolution" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "shape silhouettes high resolution" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
