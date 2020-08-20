@@ -37,3 +37,24 @@ Additional Instructions (Roy Velich)
   * `googleimagesdownload --keywords "shape silhouette" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
   * `googleimagesdownload --keywords "country silhouettes high resolution" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
   * `googleimagesdownload --keywords "shape silhouettes high resolution" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random images" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random colorful images" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random urban images" --limit 200 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random nature images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random organic images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random noise images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random clouds images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random flowers images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "random shapes images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "people images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "travel images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "fonts alphabet" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "mountain images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "water images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "buildings images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "perlin noise" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "fractal images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "geometric shapes" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "black white shapes" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "animal images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "gradient" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
