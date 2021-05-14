@@ -58,3 +58,18 @@ Additional Instructions (Roy Velich)
   * `googleimagesdownload --keywords "black white shapes" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
   * `googleimagesdownload --keywords "animal images" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
   * `googleimagesdownload --keywords "gradient" --limit 300 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+
+
+  * `googleimagesdownload --keywords "nature" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "cartoons" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "drawings" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "beautiful" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "wallpaper hd" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "space" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "landscape" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "game screenshots" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "vegetables" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "food" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "monuments" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  * `googleimagesdownload --keywords "explosions space" --limit 600 --chromedriver "C:\Users\Roy\Documents\chromedriver_win32\chromedriver.exe"`
+  
